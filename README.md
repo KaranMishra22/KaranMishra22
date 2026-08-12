@@ -25,7 +25,7 @@
 
 ## 💼 Skills
 
-- **Languages**: Python, JavaScript, Dart, C++
+- **Languages**: Python, Java, SQL
 - **Tools**: Flutter, Firebase, React.js, Node.js, Streamlit
 - **ML/AI**: YOLOv5/v8, BERT, PyTorch, OpenCV
 - **Dev Tools**: Git, GitHub, VS Code, Postman, UiPath
@@ -34,6 +34,6 @@
 
 ## 📬 Let's Connect!
 
-- 📧 karann23cb@psnacet.edu.in  
+- 📧 km4598605@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/karan-mishra22)  
 - 💻 [GitHub](https://github.com/KaranMishra22)
