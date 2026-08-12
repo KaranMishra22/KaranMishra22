@@ -25,10 +25,10 @@
 
 ## 💼 Skills
 
-- **Languages**: Python, Java, SQL
-- **Tools**: Flutter, Firebase, React.js, Node.js, Streamlit
+- **Languages**: Java, Python, SQL
+- **Tools**: Flutter, Firebase, React.js, Node.js, Flask, REST API
 - **ML/AI**: YOLOv5/v8, BERT, PyTorch, OpenCV
-- **Dev Tools**: Git, GitHub, VS Code, Postman, UiPath
+- **Dev Tools**: Git, GitHub, VS Code, Postman
 
 ---
 
